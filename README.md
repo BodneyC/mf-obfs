@@ -7,8 +7,8 @@ Obfs-mf, short for obfuscation via metafile, is a program written in C containin
 Clone the [repository](https://github.com/BodneyC/mf-obfs.git) and compile with gcc:
 
 ```batch
-git clone https://github.com/BodneyC/secdel.git`
-cd secdel/
+git clone https://github.com/BodneyC/obfs-mf.git`
+cd obfs-mf/
 gcc obfs-mf.c -o obfs-mf.exe
 ```
 
