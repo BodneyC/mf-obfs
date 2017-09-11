@@ -5,7 +5,7 @@
 #include <math.h>
 #include <windows.h>
 #include <winioctl.h>
-
+/* Test  */
 #define HI_NIBBLE(b) (((b) >> 4) & 0x0F)
 #define LO_NIBBLE(b) ((b) & 0x0F)
 
